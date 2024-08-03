@@ -1,2 +1,5 @@
 # my-coding-temple-ship-log
-author: Coding Temple
+
+Author: Coding Temple
+
+url: www.codingtemple.com
